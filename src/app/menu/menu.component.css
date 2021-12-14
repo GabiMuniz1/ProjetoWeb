@@ -1,0 +1,16 @@
+.fs-16{
+    font-size: 16pt;
+}
+
+a{
+    cursor: pointer;
+}
+
+.bg-degrad{
+    background: rgb(58,57,224);
+background: linear-gradient(90deg, rgba(58,57,224,1) 11%, rgba(72,88,242,1) 35%, rgba(11,157,255,1) 63%, rgba(106,255,232,1) 82%, rgba(255,255,191,1) 100%);
+}
+
+.bt-hover:hover{
+    color: aqua;
+}
